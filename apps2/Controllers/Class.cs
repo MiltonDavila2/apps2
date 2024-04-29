@@ -2,7 +2,17 @@
 {
     public class Class
     {
+        public int Id { get; set; }
 
-        //oh dios mio pene
+        public string Name { get; set; }
+
+        public string Description { get; set; }
+
+        public string Type { get; set; }
+
+        public string Author { get; set; }
+
+
+        //Te odio, te odio
     }
 }
